@@ -1,4 +1,10 @@
+
+
+
 # EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE
+
+
+
 
 ## Aim:
 C program using open, read, write, close , create , fork() system calls.
